@@ -1,5 +1,7 @@
 # portfolio
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/20742ac7-15de-4ed6-a267-c847334801bb/deploy-status)](https://app.netlify.com/sites/wonderful-gecko-254f32/deploys)
+
 ## Build Setup
 
 ```bash
